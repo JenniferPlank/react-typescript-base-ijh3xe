@@ -1,0 +1,25 @@
+{
+  "name": "react-typescript-base",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/angular": ">=1.5",
+    "@types/prop-types": ">=15",
+    "@types/react": "16.0.0",
+    "@types/react-dom": "15.5.1",
+    "angular": "1.6.8",
+    "prop-types": ">=15",
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "react2angular": "^4.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
